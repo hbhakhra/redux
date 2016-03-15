@@ -1,0 +1,6 @@
+React:
+The ui is a pure function of the application state
+
+Redux:
+The next state is a pure function of the previous state and an action
+Reducer: There is one function that takes an action and operates on the existing state to output a new object as the new state without modifying the existing state. Even in large applications, there is still just a single function. 

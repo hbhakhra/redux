@@ -1,0 +1,22 @@
+{
+  "name": "redux",
+  "version": "0.0.1",
+  "description": "First redux app, experiment ",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hbhakhra/redux.git"
+  },
+  "keywords": [
+    "redux"
+  ],
+  "author": "Humza Bhakhrani",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hbhakhra/redux/issues"
+  },
+  "homepage": "https://github.com/hbhakhra/redux#readme"
+}
